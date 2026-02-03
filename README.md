@@ -2,6 +2,7 @@
 References used in this Repository
 https://github.com/kyechan99/capsule-render
 https://github.com/juletopi
+https://shields.io
 https://readme-typing-svg.demolab.com/demo
 https://getemoji.com
 -->
