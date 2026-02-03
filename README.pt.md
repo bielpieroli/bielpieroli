@@ -325,6 +325,6 @@ Quer entrar em contato? Meus links estão abaixo.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=0aa3a3&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Obrigado+por+visitar+o+meu+perfil!+Até+mais!" alt="TypingGoodbye-SVG" title="Tchau e visite sempre!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=0aa3a3&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Obrigado+por+visitar+o+meu+perfil!+At%C3%A9+mais!" alt="TypingGoodbye-SVG" title="Tchau e visite sempre!"/>
   </a>
 </div>
