@@ -21,7 +21,7 @@ https://getemoji.com
 </div>
 
 <div align="center" style="margin:12px 0;">
-  <div style="width:80%; max-width:1200px; height:4px; background:#0aa3a3; border-radius:4px;"></div>
+  <img src="assets/cyan-bar.svg" alt="barra ciano" height="2px" width="80%" />
 </div>
 
 <div align="center">
