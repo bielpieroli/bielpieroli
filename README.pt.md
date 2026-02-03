@@ -181,75 +181,70 @@ Quer entrar em contato? Meus links estão abaixo.
 
 ### <h2> <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif" width="37" alt="Gif"/></a> Experiências Profissionais </h2>
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://pet.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/pet.png" alt="PET-Codifikids" title="Acesse o site" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>PET-Computação (ICMC-USP)</strong></p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>6xMembro</strong> and <strong>6xCoordenador</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>Segundo semestre de 2024</strong></em> - <em><strong>Primeiro semestre de 2026</strong></em></p>
-  </div>
+<a href="https://pet.icmc.usp.br">
+  <img src="assets/experience-icons/pet.png" alt="PET-Codifikids" title="Acesse o site" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>PET-Computação (ICMC-USP)</strong><br>
+  🫂 <strong>6xMembro</strong> and <strong>6xCoordenador</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>Segundo semestre de 2024</strong></em> - <em><strong>Primeiro semestre de 2026</strong></em>
 </div>
+<br clear="both" />
 
 &thinsp;
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://pet.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/codifique.png" alt="PET-Codifique" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>[PET] Codifique</strong></p>
-    <p style="margin:4px 0 0 0;">💬 Um curso dedicado ao ensino de programação para estudantes de Ensino Médio na linguagem de programação Python</p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>Professor</strong> e <strong>Monitor</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>Segundo semestre de 2024</strong></em> e <em><strong>Segundo semestre de 2025</strong></em></p>
-  </div>
+<a href="https://pet.icmc.usp.br">
+  <img src="assets/experience-icons/codifique.png" alt="PET-Codifique" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>[PET] Codifique</strong><br>
+  💬 Um curso dedicado ao ensino de programação para estudantes de Ensino Médio na linguagem de programação Python<br>
+  🫂 <strong>Professor</strong> e <strong>Monitor</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>Segundo semestre de 2024</strong></em> e <em><strong>Segundo semestre de 2025</strong></em>
 </div>
+<br clear="both" />
 
 &thinsp;
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://pet.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/codifikids.png" alt="PET-COMP" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>[PET] Codifikids</strong></p>
-    <p style="margin:4px 0 0 0;">💬 Um curso dedicado ao ensino dos conceitos básicos de programação para crianças do ensino de rede pública brasileira, fazendo uso de plataformas de programação em blocos</p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>Professor</strong> e <strong>Monitor</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>Primeiro semestre de 2025</strong></em> e <em><strong>Segundo semestre de 2025</strong></em></p>
-  </div>
+<a href="https://pet.icmc.usp.br">
+  <img src="assets/experience-icons/codifikids.png" alt="PET-COMP" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>[PET] Codifikids</strong><br>
+  💬 Um curso dedicado ao ensino de programação para crianças, fazendo uso de plataformas de programação em blocos<br>
+  🫂 <strong>Professor</strong> e <strong>Monitor</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>Primeiro semestre de 2025</strong></em> e <em><strong>Segundo semestre de 2025</strong></em>
 </div>
+<br clear="both" />
 
 &thinsp;
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="hhttps://codelab.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/codelab.png" alt="CodeLab" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>CodeLab</strong></p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>1xMembro</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>Segundo semestre de 2025</strong></em> - Agora</em></p>
-  </div>
+<a href="https://codelab.icmc.usp.br">
+  <img src="assets/experience-icons/codelab.png" alt="CodeLab" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>CodeLab</strong><br>
+  🫂 <strong>1xMembro</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>Segundo semestre de 2025</strong></em> - Agora
 </div>
+<br clear="both" />
 
 &thinsp;
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://semcomp.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/semcomp.png" alt="Semcomp" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>Semcomp (ICMC-USP)</strong></p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>2xMembro</strong> e <strong>1xCoordenador</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>2024</strong></em> - Agora</em></p>
-  </div>
+<a href="https://semcomp.icmc.usp.br">
+  <img src="assets/experience-icons/semcomp.png" alt="Semcomp" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>Semcomp (ICMC-USP)</strong><br>
+  🫂 <strong>2xMembro</strong> e <strong>1xCoordenador</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>2024</strong></em> - Agora
 </div>
+<br clear="both" />
 
 
 <!-- EDUCATION -->
@@ -257,31 +252,29 @@ Quer entrar em contato? Meus links estão abaixo.
 ### <h2> <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="37" alt="Gif"/></a> Experiência Educacional </h2>
 
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://colegiodrummond.net" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/drummond.png" alt="Drummond" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>Colégio Drummond</strong></p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>Ensino Infantil, Fundamental e Médio</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>Cianorte, Paraná, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>2008</strong></em> - 2023</em></p>
-  </div>
+<a href="https://colegiodrummond.net">
+  <img src="assets/experience-icons/drummond.png" alt="Drummond" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>Colégio Drummond</strong><br>
+  🫂 <strong>Ensino Infantil, Fundamental e Médio</strong><br>
+  📌 <strong>Cianorte, Paraná, Brasil</strong><br>
+  🗓️ <em><strong>2008</strong></em> - 2023
 </div>
+<br clear="both" />
 
 &thinsp;
 
-<div style="display:flex;align-items:center;gap:16px;">
-  <a href="https://www.icmc.usp.br" style="flex:0 0 auto;">
-    <img src="assets/experience-icons/usp.png" alt="USP" title="Acesse a página" style="height:120px; margin-right:12px; display:block;" />
-  </a>
-  <div style="flex:1; line-height:1.4;">
-    <p style="margin:0;">👔 <strong>ICMC-USP</strong></p>
-    <p style="margin:4px 0 0 0;">🫂 <strong>Graduando em Bacharelado em Ciências de Computação</strong></p>
-    <p style="margin:4px 0 0 0;">📌 <strong>São Carlos, São Paulo, Brasil</strong></p>
-    <p style="margin:4px 0 0 0;">🗓️ <em><strong>2024</strong></em> - Agora</em></p>
-  </div>
+<a href="https://www.icmc.usp.br">
+  <img src="assets/experience-icons/usp.png" alt="USP" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
+</a>
+<div style="line-height:2.0;">
+  👔 <strong>ICMC-USP</strong><br>
+  🫂 <strong>Graduando em Bacharelado em Ciências de Computação</strong><br>
+  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
+  🗓️ <em><strong>2024</strong></em> - Agora
 </div>
+<br clear="both" />
 
 <br>
 
