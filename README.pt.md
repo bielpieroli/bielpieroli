@@ -199,7 +199,7 @@ Quer entrar em contato? Meus links estão abaixo.
 </a>
 <div style="line-height:2.0;">
   👔 <strong>[PET] Codifique</strong><br>
-  💬 Um curso dedicado ao ensino de programação para estudantes de Ensino Médio na linguagem de programação Python<br>
+  💬 Um curso de ensino de programação para estudantes de Ensino Médio na linguagem de programação Python<br>
   🫂 <strong>Professor</strong> e <strong>Monitor</strong><br>
   📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
   🗓️ <em><strong>Segundo semestre de 2024</strong></em> e <em><strong>Segundo semestre de 2025</strong></em>
@@ -213,7 +213,7 @@ Quer entrar em contato? Meus links estão abaixo.
 </a>
 <div style="line-height:2.0;">
   👔 <strong>[PET] Codifikids</strong><br>
-  💬 Um curso dedicado ao ensino de programação para crianças, fazendo uso de plataformas de programação em blocos<br>
+  💬 Um curso de ensino de programação para crianças, a partir do uso de plataformas de programação em blocos<br>
   🫂 <strong>Professor</strong> e <strong>Monitor</strong><br>
   📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
   🗓️ <em><strong>Primeiro semestre de 2025</strong></em> e <em><strong>Segundo semestre de 2025</strong></em>
