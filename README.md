@@ -82,12 +82,8 @@ Want to get in touch? My links are below.
 &nbsp;&nbsp;&nbsp;
 
 <!-- SKILLS -->
-<h2>
-<div align="left" style="display:flex;align-items:center;gap:8px;">
-  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40" alt="ToolsUsed-gif" />
-  <h4 style="margin:0;">Tech</h4>
-</div>
-</h2>
+
+### <h2> <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV6Y2Mwb3g4ZGV2bXFteGhmOGF3Zng5YjBpcWRqa2QwcmRub3MwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j49DyJ21b46azEBFpg/giphy.gif"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV6Y2Mwb3g4ZGV2bXFteGhmOGF3Zng5YjBpcWRqa2QwcmRub3MwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j49DyJ21b46azEBFpg/giphy.gif" width="37" alt="Gif"/></a> Techs </h2>
 
 <h4 align="center">IDEs & GUIs</h4>
 
@@ -209,23 +205,14 @@ Want to get in touch? My links are below.
 
 <!-- STATS -->
 
-<h2>
-  <div align="left" style="display:flex;align-items:center;gap:8px;">
-    <img src="https://media.tenor.com/RsaKRFq-W2sAAAAM/drstrange-one.gif" width="40" alt="ToolsUsed-gif" />
-    <h4 style="margin:0;">Git Stats</h4>
-  </div>
-</h2>
+### <h2> <a href="https://media.tenor.com/RsaKRFq-W2sAAAAM/drstrange-one.gif"><img align="center" src="https://media.tenor.com/RsaKRFq-W2sAAAAM/drstrange-one.gif" width="37" alt="Gif"/></a> Git Stats </h2>
 
 [IN CONSTRUCTION]
 
 <!-- EXPERIENCE -->
 
-<h2>
-  <div align="left" style="display:flex;align-items:center;gap:8px;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="40" alt="ToolsUsed-gif" />
-    <h4 style="margin:0;">Work Experience</h4>
-  </div>
-</h2>
+
+### <h2> <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif" width="37" alt="Gif"/></a> Work Experience </h2>
 
 <div style="display:flex;align-items:center;gap:16px;">
   <a href="https://pet.icmc.usp.br" style="flex:0 0 auto;">
@@ -300,12 +287,7 @@ Want to get in touch? My links are below.
 
 <!-- EDUCATION -->
 
-<h2>
-  <div align="left" style="display:flex;align-items:center;gap:8px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="40" alt="ToolsUsed-gif" />
-    <h4 style="margin:0;">Education Experience</h4>
-  </div>
-</h2>
+### <h2> <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="37" alt="Gif"/></a> Education Experience </h2>
 
 
 <div style="display:flex;align-items:center;gap:16px;">
