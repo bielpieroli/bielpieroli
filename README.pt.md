@@ -20,10 +20,8 @@ https://getemoji.com
   </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img width=70% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=0aa3a3&height=4&section=header&%20render">
-  </a>
+<div align="center" style="margin:12px 0;">
+  <div style="width:80%; max-width:1200px; height:4px; background:#0aa3a3; border-radius:4px;"></div>
 </div>
 
 <div align="center">
@@ -71,7 +69,7 @@ Quer entrar em contato? Meus links estão abaixo.
   </a>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:joaogabrielpieroli@usp.br">
-    <img src="assets/social-icons/usp.png" height="32" alt="Institutional-icon" title="Institutional Email">
+    <img src="assets/social-icons/university.png" height="32" alt="Institutional-icon" title="Institutional Email">
   </a>
   </a>&nbsp;&nbsp;&nbsp;
 
