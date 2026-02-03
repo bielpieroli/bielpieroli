@@ -2,6 +2,7 @@
 Referências usadas neste repositório
 https://github.com/kyechan99/capsule-render
 https://github.com/juletopi
+https://shields.io
 https://readme-typing-svg.demolab.com/demo
 https://getemoji.com
 -->
@@ -27,13 +28,7 @@ https://getemoji.com
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=0aa3a3&center=true&vCenter=true&width=1200&height=70&lines=Graduando+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+ICMC-USP; De+Maring%C3%A1+-+Paran%C3%A1+-+Brasil" alt="TypingSub-SVG" title="Seja bem-vindo!"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=Um+rapaz+de+22+anos;de+Rond%C3%B4nia%2C+Brasil;e+um+Desenvolvedor+Full-stack" alt="TypingSub-SVG" title="Bem-vindo!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=0aa3a3&center=true&vCenter=true&width=1200&height=70&lines=Graduando+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+ICMC-USP;De+Maring%C3%A1+-+Paran%C3%A1+-+Brasil" alt="TypingSub-SVG" title="Seja bem-vindo!"/>
   </a>
 </div>
 
