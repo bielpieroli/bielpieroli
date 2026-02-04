@@ -247,38 +247,6 @@ Quer entrar em contato? Meus links estão abaixo.
 </div>
 <br clear="both" />
 
-
-<!-- EDUCATION -->
-
-### <h2> <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="37" alt="Gif"/></a> Experiência Educacional </h2>
-
-
-<a href="https://colegiodrummond.net">
-  <img src="assets/experience-icons/drummond.png" alt="Drummond" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
-</a>
-<div style="line-height:2.0;">
-  👔 <strong>Colégio Drummond</strong><br>
-  🫂 <strong>Ensino Infantil, Fundamental e Médio</strong><br>
-  📌 <strong>Cianorte, Paraná, Brasil</strong><br>
-  🗓️ <em><strong>2008</strong></em> - 2023
-</div>
-<br clear="both" />
-
-&thinsp;
-
-<a href="https://www.icmc.usp.br">
-  <img src="assets/experience-icons/usp.png" alt="USP" title="Acesse a página" width="120" align="left" style="margin-right:30px;" />
-</a>
-<div style="line-height:2.0;">
-  👔 <strong>ICMC-USP</strong><br>
-  🫂 <strong>Graduando em Bacharelado em Ciências de Computação</strong><br>
-  📌 <strong>São Carlos, São Paulo, Brasil</strong><br>
-  🗓️ <em><strong>2024</strong></em> - Agora
-</div>
-<br clear="both" />
-
-<br>
-
 <!-- SPOTIFY  -->
 
 

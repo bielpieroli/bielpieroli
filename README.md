@@ -282,38 +282,6 @@ Want to get in touch? My links are below.
 </div>
 <br clear="both" />
 
-
-<!-- EDUCATION -->
-
-### <h2> <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="37" alt="Gif"/></a> Education Experience </h2>
-
-
-<a href="https://colegiodrummond.net">
-  <img src="assets/experience-icons/drummond.png" alt="Drummond" title="Go to the group's website →" width="120" align="left" style="margin-right:30px;" />
-</a>
-<div style="line-height:2.0;">
-  👔 <strong>Drummond School</strong><br>
-  🫂 <strong>Kindergarten, elementary and High School</strong><br>
-  📌 <strong>Cianorte, Paraná, Brazil</strong><br>
-  🗓️ <em><strong>2008</strong></em> - 2023
-</div>
-<br clear="both" />
-
-&thinsp;
-
-<a href="https://www.icmc.usp.br">
-  <img src="assets/experience-icons/usp.png" alt="USP" title="Go to the group's website →" width="120" align="left" style="margin-right:30px;" />
-</a>
-<div style="line-height:2.0;">
-  👔 <strong>ICMC-USP</strong><br>
-  🫂 <strong>Undergraduate in Computer Science</strong><br>
-  📌 <strong>São Carlos, São Paulo, Brazil • (On-Campus)</strong><br>
-  🗓️ <em><strong>2024</strong></em> - Now
-</div>
-<br clear="both" />
-
-<br>
-
 <!-- SPOTIFY PLAYING -->
 
 
