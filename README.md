@@ -54,7 +54,9 @@ I'm a Computer Science undergraduate at ICMC‑USP. I love automating workflows,
 
 &nbsp;
 
-Want to get in touch? My links are below.
+Want to get in touch? Here are my social networks :D 
+
+Feel free to send me a message!
 
 <!-- SOCIAL NETWORKS -->
 

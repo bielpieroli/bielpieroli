@@ -53,7 +53,9 @@ Sou estudante de Ciência da Computação no ICMC‑USP. Gosto de automatizar ta
 
 &nbsp;
 
-Quer entrar em contato? Meus links estão abaixo.
+Quer entrar em contato? Aqui estão as minhas redes :D
+
+Sinta-se à vontade para me mandar uma mensagem!
 
 <!-- REDES SOCIAIS -->
 
