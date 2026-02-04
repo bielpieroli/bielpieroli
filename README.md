@@ -211,6 +211,10 @@ Want to get in touch? My links are below.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bielpieroli/bielpieroli/output/pacman-contribution-graph.svg">
 </picture>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 <!-- EXPERIENCE -->
 
 

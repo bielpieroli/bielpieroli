@@ -178,6 +178,10 @@ Quer entrar em contato? Meus links estão abaixo.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bielpieroli/bielpieroli/output/pacman-contribution-graph.svg">
 </picture>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 <!-- EXPERIENCE -->
 
 ### <h2> <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvN2MzeXo5b2I4MXF3aHYyaTdoZXJsbXNibjM3c2doYnM1eGZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nrIj4ybdApT6zEtbtU/giphy.gif" width="37" alt="Gif"/></a> Experiências Profissionais </h2>
