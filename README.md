@@ -205,7 +205,11 @@ Want to get in touch? My links are below.
 
 ### <h2> <a href="https://media.tenor.com/RsaKRFq-W2sAAAAM/drstrange-one.gif"><img align="center" src="https://media.tenor.com/RsaKRFq-W2sAAAAM/drstrange-one.gif" width="37" alt="Gif"/></a> Git Stats </h2>
 
-[IN CONSTRUCTION]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielpieroli/bielpieroli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bielpieroli/bielpieroli/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bielpieroli/bielpieroli/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- EXPERIENCE -->
 
